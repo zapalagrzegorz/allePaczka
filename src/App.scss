@@ -1,0 +1,21 @@
+$formBorderColor: #e1e3e8;
+
+.formBorderColor {
+  border-color: $formBorderColor;
+}
+
+.App {
+  padding-top: 2rem;
+  max-width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.parcelFormLabel {
+  color: #606774;
+  letter-spacing: -0.4px;
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-bottom: 8px;
+  display: inline-block;
+}
