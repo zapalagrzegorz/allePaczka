@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/allePaczka/static/css/main.51242ef8.css",
+    "main.js": "/allePaczka/static/js/main.722cc5fa.js",
+    "static/js/787.28cb0dcd.chunk.js": "/allePaczka/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/allePaczka/index.html",
+    "main.51242ef8.css.map": "/allePaczka/static/css/main.51242ef8.css.map",
+    "main.722cc5fa.js.map": "/allePaczka/static/js/main.722cc5fa.js.map",
+    "787.28cb0dcd.chunk.js.map": "/allePaczka/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51242ef8.css",
+    "static/js/main.722cc5fa.js"
+  ]
+}
