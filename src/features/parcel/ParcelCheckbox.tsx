@@ -1,4 +1,4 @@
-interface ParcelCheckbox {
+interface IParcelCheckbox {
   value: boolean;
   handleChange: (e: React.ChangeEvent<HTMLInputElement>) => void;
   name: string;
@@ -9,7 +9,7 @@ export const ParcelCheckbox = ({
   handleChange,
   name,
   label,
-}: ParcelCheckbox) => {
+}: IParcelCheckbox) => {
   return (
     <label style={{ marginRight: "1rem" }} key={name}>
       <input

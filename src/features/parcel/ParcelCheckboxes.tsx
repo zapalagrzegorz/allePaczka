@@ -27,7 +27,10 @@ export const ParcelCheckboxes = () => {
     <div className="flex flex-wrap">
       {parcelCheckboxes.map((parcelCheckboxGroup) => {
         return (
-          <div className="w-full md:w-2/5 mb-5 lg:mb-0" key={parcelCheckboxGroup.label}>
+          <div
+            className="w-full md:w-2/5 mb-5 lg:mb-0"
+            key={parcelCheckboxGroup.label}
+          >
             <span className="parcelFormLabel">{parcelCheckboxGroup.label}</span>
             <div>
               {parcelCheckboxGroup.values.map((parcelCheckboxInfo) => {
